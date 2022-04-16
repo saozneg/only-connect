@@ -3,6 +3,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
+	background-image: url("OC Game BG.jpg");
 	background: #000000;
 
 	font-family: sans-serif;
