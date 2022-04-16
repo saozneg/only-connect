@@ -77,24 +77,24 @@ html, body {
 	border-radius: 5px;
 
 	color: #1D3C4C;
-	background: #91C3E4;
+	background: rgba(145, 195, 228, 0.9);
 }
 
 .brick.group0 {
 	color: #FFFFFF;
-	background: #054872;
+	background: rgba(5, 72, 114, 0.925);
 }
 .brick.group1 {
 	color: #FFFFFF;
-	background: #097B5A;
+	background: rgba(9, 123, 90, 0.9);
 }
 .brick.group2 {
 	color: #FFFFFF;
-	background: #572143;
+	background: rgba(87, 33, 67, 0.9);
 }
 .brick.group3 {
 	color: #FFFFFF;
-	background: #056F7C;
+	background: rgba(5, 111, 124, 0.9);
 }
 
 .link.group0 {
