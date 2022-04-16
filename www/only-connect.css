@@ -97,19 +97,19 @@ html, body {
 
 .link.group0 {
 	border: 2px solid #054872;
-	background: #000000;
+	background: rgba(0, 0, 0, 0.75);
 }
 .link.group1 {
 	border: 2px solid #097B5A;
-	background: #000000;
+	background: rgba(0, 0, 0, 0.75);
 }
 .link.group2 {
 	border: 2px solid #572143;
-	background: #000000;
+	background: rgba(0, 0, 0, 0.75);
 }
 .link.group3 {
 	border: 2px solid #056F7C;
-	background: #000000;
+	background: rgba(0, 0, 0, 0.75);
 }
 .link .hidden {
 	font-style: italic;
