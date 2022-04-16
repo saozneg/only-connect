@@ -3,10 +3,11 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	background-image: url(www/OC Game BG.jpg);
-	background-size:     cover;
-	background-repeat:   no-repeat;
-	background-position: center center;
+	background: url(www/OC%20Game%20BG.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 	background: #000000;
 
 	font-family: sans-serif;
