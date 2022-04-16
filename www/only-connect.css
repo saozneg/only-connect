@@ -10,6 +10,8 @@ html, body {
 	background-size: cover;
 	height: 100%;
 	overflow: hidden;
+	
+	background: #000000;
 
 	font-family: sans-serif;
 	color: #FFFFFF;
