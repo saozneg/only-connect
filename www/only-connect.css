@@ -8,7 +8,8 @@ html, body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background: #000000;
+	height: 100%;
+	overflow: hidden;
 
 	font-family: sans-serif;
 	color: #FFFFFF;
