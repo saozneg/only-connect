@@ -3,7 +3,10 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	background-image: url(https://raw.githubusercontent.com/saozneg/saozneg.github.io/master/www/OC%20Game%20BG.jpg);
+	background-image: url(OC Game BG.jpg);
+	background-size:     cover;
+	background-repeat:   no-repeat;
+	background-position: center center;
 	background: #000000;
 
 	font-family: sans-serif;
