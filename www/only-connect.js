@@ -162,7 +162,7 @@
 				links = html(playarea, "div", "wall links");
 				bricks.filter((brick, i) => i%4==0).forEach(function(brick, i) {
 					let link = html(links, "div", "link group"+i, );
-					let span = html(link, "span", "hidden", "click to reveal link");
+					let span = html(link, "span", "hidden", "Connection?");
 					link.addEventListener("click", function() {
 						if(span.classList.contains("hidden")) {
 							span.classList.remove("hidden");
