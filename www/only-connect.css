@@ -61,7 +61,6 @@ html, body {
 .wall.player .brick,
 .wall.links .link {
 	height: 100%;
-
 	display: flex;
 	flex-flow: column;
 	justify-content: center;
@@ -77,7 +76,6 @@ html, body {
 
 .brick {
 	border-radius: 5px;
-
 	color: #1D3C4C;
 	background: rgba(145, 195, 228, 0.925);
 }
