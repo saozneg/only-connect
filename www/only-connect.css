@@ -12,6 +12,7 @@ html, body {
 	overflow: hidden;
 
 	font-family: DIN Alternate, sans-serif;
+	text-align: center;
 	color: #FFFFFF;
 }
 
@@ -99,18 +100,22 @@ html, body {
 
 .link.group0 {
 	border: 2px solid #054872;
+	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
 }
 .link.group1 {
 	border: 2px solid #097B5A;
+	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
 }
 .link.group2 {
 	border: 2px solid #572143;
+	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
 }
 .link.group3 {
 	border: 2px solid #056F7C;
+	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
 }
 .link .hidden {
