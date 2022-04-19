@@ -11,7 +11,8 @@ html, body {
 	height: 100%;
 	overflow: hidden;
 
-	font-family: DIN Alternate, sans-serif;
+	font-family: Ropa Sans Pro;
+	src: url(https://github.com/saozneg/saozneg.github.io/raw/master/RopaSansPro-Regular.woff2)
 	text-align: center;
 	text-shadow: 0px 0px 10px rgba(0,0,0,0.25);
 	color: #FFFFFF;
