@@ -11,8 +11,9 @@ html, body {
 	height: 100%;
 	overflow: hidden;
 
-	font-family: "Gidole";
-	src: url(https://github.com/saozneg/saozneg.github.io/raw/master/gidole-regular-webfont.woff2) format ("woff2")
+	font-family: 'Gidole';
+	src:	url('https://github.com/saozneg/saozneg.github.io/raw/master/gidole-regular-webfont.woff2') format('woff2'),
+		url('https://github.com/saozneg/saozneg.github.io/raw/master/gidole-regular-webfont.woff') format('woff');
 	text-align: center;
 	color: #FFFFFF;
 	text-shadow: 0px 0px 10px rgba(0,0,0,0.33);
