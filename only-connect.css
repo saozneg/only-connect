@@ -11,11 +11,11 @@ html, body {
 	height: 100%;
 	overflow: hidden;
 
-	font-family: Gidole, DIN Alternate;
+	font-family: "Gidole";
+	src: url(https://github.com/saozneg/saozneg.github.io/raw/master/gidole-regular-webfont.woff2) format ("woff2")
 	text-align: center;
 	color: #FFFFFF;
 	text-shadow: 0px 0px 10px rgba(0,0,0,0.33);
-	src: url(https://saozneg.github.io/gidole-regular-webfont.woff2)
 	color: #FFFFFF;
 }
 
