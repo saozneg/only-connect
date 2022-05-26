@@ -80,6 +80,7 @@
 		let locked = false;
 		let group = 0;
 		let selected = [];
+		click.play();
 		function selectBrick(brick) {
 			if(!locked) {
 				if(brick.group==WIDTH) {
