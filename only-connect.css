@@ -37,9 +37,6 @@ html, body {
 	z-index: 99999;
 	height: 100%;
 	width: 100%;
-	-webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 1);
-	-moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 1);
-	box-shadow: 0 10px 20px rgba(0, 0, 0, 1);
 }
 .modalconent {
 	position: absolute;
@@ -53,6 +50,7 @@ html, body {
 	border-radius: 5px;
 	text-align: center;
 	text-shadow: 0px 0px 0px rgba(0,0,0,0);
+	box-shadow: 0px 5px 20px 10px rgba(0, 0, 0, .5);
 }
 
 .playarea {
