@@ -27,8 +27,14 @@ html, body {
 	position: fixed;
 	top: 0;
 	left: 0;
+	background: url(OC%20Game%20BG.jpg) no-repeat center center fixed, #000000;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
 	background: rgba(0, 0, 0, 0);
-		filter: blur(10px);
 	z-index: 99999;
 	height: 100%;
 	width: 100%;
