@@ -45,7 +45,9 @@ html, body {
 	top: 50%;
 	left: 50%;
 	font-size: calc(100vh * 0.04);
-	padding: 15px;
+	padding: 25px;
+	padding-top: 5px;
+	padding-bottom: 7.5px;
 	transform: translate(-50%, -50%);
 	color: #1D3C4C;
 	background: rgba(145, 195, 228, 0.85);
