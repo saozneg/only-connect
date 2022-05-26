@@ -193,6 +193,7 @@ input[type=button] {
 	outline: none;
 }
 textarea {
+	font-size: 15px;
 	margin: 10px;
 	width: 800px;
 	height: 100px;
