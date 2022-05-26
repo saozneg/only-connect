@@ -24,7 +24,7 @@
 
 	function wall(groups) {
 		const WIDTH = 4;
-
+		
 		// if there is no data use hard coded default
 		if(!groups) {
 			groups = [
@@ -76,6 +76,14 @@
 		let solved = new Audio('Sound/ocFlurry.mp3');
 		let reveal = new Audio('Sound/nextVowelGame.mp3');
 		
+
+		// modal box
+		window.onload = function () {
+			document.getElementById('button').onclick = function () {
+				document.getElementById('modal').style.display = "none"
+				timer.play();
+			};
+		};
 		
 		// interaction
 		let locked = false;
