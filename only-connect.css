@@ -55,9 +55,13 @@ html, body {
 }
 
 .button {
-	width: 200%;
-	height: 200%;
-	font-size: 2em;
+  background-color: rgba(5, 72, 114);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
 
 .responsive {
