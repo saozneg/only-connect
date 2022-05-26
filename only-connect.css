@@ -53,6 +53,12 @@ html, body {
 	box-shadow: 0px 5px 25px 7.5px rgba(0, 0, 0, .5);
 }
 
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
 .playarea {
 	max-width: calc(100vh * 1.7778);
 	position: relative;
