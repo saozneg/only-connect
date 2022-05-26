@@ -177,8 +177,9 @@ html, body {
 	color:#FFFFFF;
 }
 input[type=button] {
-	margin: 10px;
-	padding: 10px;
+	font-size: 15px;
+	margin: 20px;
+	padding: 10px 20px;
 	background: #FFFFFF;
 	border-radius: 5px;
 	outline: none;
