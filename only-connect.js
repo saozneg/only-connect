@@ -80,8 +80,8 @@
 		let locked = false;
 		let group = 0;
 		let selected = [];
-		click.play();
 		function selectBrick(brick) {
+			click.play();
 			if(!locked) {
 				if(brick.group==WIDTH) {
 					if(!selected.includes(brick)) {
