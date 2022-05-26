@@ -188,6 +188,7 @@
 					link.addEventListener("click", function() {
 						if(span.classList.contains("hidden")) {
 							span.classList.remove("hidden");
+							timer.pause();
 							reveal.play();
 							span.innerHTML=brick.link;
 						}
