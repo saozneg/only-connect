@@ -74,6 +74,7 @@
 		let correct = new Audio('/Sound/solveClue.mp3');
 		let incorrect = new Audio('Sound/incorrectGroup.mp3');
 		let solved = new Audio('Sound/ocFlurry.mp3');
+		let reveal = new Audio('Sound/nextVowelGame.mp3');
 		
 		
 		// interaction
@@ -179,6 +180,7 @@
 					link.addEventListener("click", function() {
 						if(span.classList.contains("hidden")) {
 							span.classList.remove("hidden");
+							reveal.play();
 							span.innerHTML=brick.link;
 						}
 					})
