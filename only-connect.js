@@ -160,6 +160,7 @@
 				selected.forEach(function(brick) {
 					brick.html.classList.remove("group" + group);
 				});
+				incorrect.play();
 				locked = false;
 			}
 			selected = [];
