@@ -82,7 +82,7 @@
 			document.getElementById('button').onclick = function () {
 				document.getElementById('modal').style.display = "none"
 				timer.play();
-			window.style.height = wall.offsetHeight+"px";
+			modal.style.height = wall.offsetHeight+"px";
 			};
 		};
 		
