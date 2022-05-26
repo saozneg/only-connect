@@ -167,6 +167,7 @@
 
 		function win() {
 			wall.classList.add("won");
+			solved.play()
 			setTimeout(function() {
 				links = html(playarea, "div", "wall links");
 				bricks.filter((brick, i) => i%4==0).forEach(function(brick, i) {
