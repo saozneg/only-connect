@@ -23,6 +23,20 @@ html, body {
 	color: #FFFFFF;
 }
 
+header {
+	position: relative;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 80px
+
+header h4 {
+	position: relative
+	left: 10%
+	bottom: 1rem
+	font-size: 1.6rem
+}
+
 .playarea {
 	max-width: calc(100vh * 1.7778);
 	position: relative;
