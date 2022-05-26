@@ -249,7 +249,7 @@
 				// turn into url
 				linkBox.value =
 					location.origin +
-					location.pathname.replace(".html", "play.html") +
+					location.pathname.replace("edit.html", "play.html") +
 					"?" + btoa(data);
 			} catch (e) {
 				linkBox.value = "Error!\n"+ e;
