@@ -152,7 +152,7 @@
 					brick.html.classList.remove("group" + group);
 				});
 				locked = false;
-				play(saozneg.github.io/raw/master/Sound/incorrectGroup.mp3)
+				.play(saozneg.github.io/raw/master/Sound/incorrectGroup.mp3)
 			}
 			selected = [];
 		}
