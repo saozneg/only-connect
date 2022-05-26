@@ -54,10 +54,7 @@ html, body {
 }
 
 .responsive {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	width: 25%;
+	width: 50%;
 	height: auto;
 }
 
