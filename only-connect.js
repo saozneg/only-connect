@@ -271,6 +271,20 @@
 			}
 			return value;
 		}
+		
+		let button = html(html(document.querySelector("linkBox.value");
+		button.type="button";
+		button.value="Copy to Clipboard";
+		
+		function copyToClipboard(text) {
+			var inputc = document.body.appendChild(document.createElement("input"));
+			inputc.value = window.location.href;
+			inputc.focus();
+			inputc.select();
+			document.execCommand('copy');
+			inputc.parentNode.removeChild(inputc);
+			alert("URL Copied.");
+			}
 	}
 
 	function getData() {
