@@ -256,12 +256,16 @@
 			}
 		});
 		
-		function copyToClipBoard() {
-			var content = document.getElementById('linkBox.value');
-			content.select();
-			document.execCommand('copy');
-			alert("Copied!");
-		}
+		
+		let button = html(html(document.querySelector('linkBox.value');
+		button.type="button";
+		button.value="Generate Link";
+			function copyToClipBoard() {
+				var content = document.getElementById('linkBox.value');
+				content.select();
+				document.execCommand('copy');
+				alert("Copied!");
+				}
 
 		function valididateInput(label, dups, input) {
 			let value = input.value.trim();
