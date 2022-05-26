@@ -79,7 +79,7 @@
 
 		// modal box
 		window.onload = function () {
-			window.onclick = function () {
+			document.getElementById('button').onclick = function () {
 				document.getElementById('modal').style.display = "none"
 				timer.play();
 			};
