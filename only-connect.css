@@ -114,44 +114,53 @@ html, body {
 	border-radius: 5px;
 	color: #1D3C4C;
 	background: rgba(145, 195, 228, 0.925);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 
 .brick.group0 {
 	color: #FFFFFF;
 	background: rgba(5, 72, 114, 0.925);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .brick.group1 {
 	color: #FFFFFF;
 	background: rgba(9, 123, 90, 0.925);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .brick.group2 {
 	color: #FFFFFF;
 	background: rgba(87, 33, 67, 0.925);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .brick.group3 {
 	color: #FFFFFF;
 	background: rgba(5, 111, 124, 0.925);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 
 .link.group0 {
 	border: 2px solid #054872;
 	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .link.group1 {
 	border: 2px solid #097B5A;
 	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .link.group2 {
 	border: 2px solid #572143;
 	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .link.group3 {
 	border: 2px solid #056F7C;
 	border-radius: 5px;
 	background: rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .link .hidden {
 	font-style: italic;
