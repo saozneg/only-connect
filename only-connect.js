@@ -68,6 +68,14 @@
 			playarea.style.fontSize = (wall.offsetHeight/16)+"px";
 		})).observe(wall);
 
+		//audio
+		let timer = new Audio('/Sound/Only%20Connect%20-%203%20minute%20Bed.mp3');
+		let click = new Audio('Sound/wallBtnClick.mp3');
+		let correct = new Audio('/Sound/solveClue.mp3');
+		let incorrect = new Audio('Sound/incorrectGroup.mp3');
+		let solved = new Audio('Sound/ocFlurry.mp3');
+		
+		
 		// interaction
 		let locked = false;
 		let group = 0;
