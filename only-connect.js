@@ -121,6 +121,7 @@
 					brick.newLeft = bricks[brick.newIndex].cell.offsetLeft;
 				});
 				bricks.sort((a,b) => a.newIndex - b.newIndex);
+				correct.play()
 
 				// next group
 				group++;
