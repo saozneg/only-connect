@@ -8,7 +8,7 @@
 html, body {
 	margin: 0;
 	padding: 0;
-	background: url(OC%20Game%20BG.jpg) no-repeat center center fixed, #000000; 
+	background: url(Graphics/OC%20Game%20BG.jpg) no-repeat center center fixed, #000000; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -27,7 +27,7 @@ html, body {
 	position: fixed;
 	top: 0;
 	left: 0;
-	background: url(OC%20Game%20BG.jpg) no-repeat center center fixed, #000000;
+	background: url(Graphics/OC%20Game%20BG.jpg) no-repeat center center fixed, #000000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
