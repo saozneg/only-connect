@@ -46,7 +46,7 @@
 		shuffle(bricks);
 
 		// build html
-		let playarea = html(document.querySelector("body"), "div", "playarea");
+		let playarea = html(document.querySelector("body"), "div", "playarea", "modal");
 
 		let wall = html(playarea, "div", "wall player");
 		bricks.forEach(function(brick) {
