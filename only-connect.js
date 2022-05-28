@@ -83,6 +83,7 @@
 				document.getElementById('modal').style.display = "none"
 				timer.play();
 			modal.style.height = wall.offsetHeight+"px";
+			modal.style.fontSize = (wall.offsetHeight/16)+"px";
 			};
 		};
 		
