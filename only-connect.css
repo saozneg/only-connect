@@ -22,8 +22,12 @@ html, body {
 	color: #FFFFFF;
 }
 
-p {
-  margin: 1vh;
+p1 {
+  margin: 0vh;
+}
+
+p2 {
+  margin: 2.5vh;
 }
 
 #modal {
