@@ -22,6 +22,10 @@ html, body {
 	color: #FFFFFF;
 }
 
+p {
+  margin: 1vh;
+}
+
 #modal {
 	position: fixed;
 	top: 0;
