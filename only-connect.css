@@ -57,7 +57,7 @@ html, body {
 
 .responsive {
 	width: auto;
-	height: calc(100vh * 0.2);
+	height: 7.5vw;
 }
 
 .playarea {
