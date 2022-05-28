@@ -79,7 +79,7 @@
 
 		// modal box
 		window.onload = function () {
-			document.getElementById('button').onclick = function () {
+			document.getElementById('modal').onclick = function () {
 				document.getElementById('modal').style.display = "none"
 				timer.play();
 			modal.style.height = wall.offsetHeight+"px";
