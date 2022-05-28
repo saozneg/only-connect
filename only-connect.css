@@ -40,7 +40,7 @@ html, body {
 
 .modalcontent {
 	position: absolute;
-	max-height: calc(100vh * 1.7778);
+	height: relative;
 	top: 50%;
 	left: 50%;
 	font-size: 2vw;
@@ -57,7 +57,7 @@ html, body {
 
 .responsive {
 	width: auto;
-	height: 0vw;
+	height: 8.5vw;
 }
 
 .playarea {
