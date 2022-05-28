@@ -43,7 +43,7 @@ html, body {
 	height: relative;
 	top: 50%;
 	left: 50%;
-	font-size: calc(100vh * 0.04);
+	font-size: calc(100vh * 0.025);
 	padding: 2.5vw;
 	padding-top: 1vh;
 	padding-bottom: 0.5vh;
