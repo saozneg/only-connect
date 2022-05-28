@@ -47,6 +47,8 @@
 
 		// build html
 		let playarea = html(document.querySelector("body"), "div", "playarea", "modalcontent");
+		
+		let modalcontent = html(modalcontent)
 
 		let wall = html(playarea, "div", "wall player");
 		bricks.forEach(function(brick) {
