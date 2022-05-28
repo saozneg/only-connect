@@ -40,7 +40,7 @@ html, body {
 
 .modalcontent {
 	position: absolute;
-	height: relative;
+	max-height: calc(100vh * 1.7778);
 	top: 50%;
 	left: 50%;
 	font-size: 2vw;
