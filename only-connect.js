@@ -48,6 +48,15 @@
 		// build html
 		let playarea = html(document.querySelector("body"), "div", "playarea", "modal");
 
+			// modal box
+			window.onload = function () {
+				document.getElementById('modal').onclick = function () {
+					document.getElementById('modal').style.display = "none"
+					timer.play();
+				modal.style.height = wall.offsetHeight+"px";
+				modal.style.fontSize = (wall.offsetHeight/16)+"px";
+			};
+		};
 		let wall = html(playarea, "div", "wall player");
 		bricks.forEach(function(brick) {
 			brick.cell = html(wall, "div");
@@ -75,17 +84,6 @@
 		let incorrect = new Audio('Sound/incorrectGroup.mp3');
 		let solved = new Audio('Sound/ocFlurry.mp3');
 		let reveal = new Audio('Sound/nextVowelGame.mp3');
-		
-
-		// modal box
-		window.onload = function () {
-			document.getElementById('modal').onclick = function () {
-				document.getElementById('modal').style.display = "none"
-				timer.play();
-			modal.style.height = wall.offsetHeight+"px";
-			modal.style.fontSize = (wall.offsetHeight/16)+"px";
-			};
-		};
 		
 		// interaction
 		let locked = false;
