@@ -43,7 +43,7 @@ html, body {
 	height: relative;
 	top: 50%;
 	left: 50%;
-	font-size: 4vh;
+	font-size: 1.75vw;
 	padding: 2.5vw;
 	padding-top: 1vh;
 	padding-bottom: 0.5vh;
@@ -57,7 +57,7 @@ html, body {
 
 .responsive {
 	width: auto;
-	height: 8.5vw;
+	height: 10vw;
 }
 
 .playarea {
