@@ -5,6 +5,12 @@
     src: url(Fonts/gidole-regular-webfont.woff2) format('woff2');
 }
 
+@font-face {
+    font-family: 'Gidole';
+	font-style: Italic;
+	src: url(Fonts/HOTOLRG_.woff2) format('woff2');
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
