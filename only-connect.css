@@ -180,10 +180,7 @@ p {
 	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .link .hidden {
-	@font-face {
-		font-family: 'HoTomLL';
-		src: url(Fonts/HOTOLRG_.woff2) format('woff2');
-	}
+	font-style: Italic;
 }
 
 .wall.editor input {
