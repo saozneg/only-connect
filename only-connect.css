@@ -29,7 +29,8 @@ html, body {
 }
 
 p {
-  margin: 2vh;
+	margin-top: 0;
+	margin: 2vh;
 }
 
 #modal {
@@ -68,6 +69,7 @@ p {
 .responsive {
 	width: auto;
 	height: 10vw;
+	margin-bottom: 0;
 }
 
 .playarea {
