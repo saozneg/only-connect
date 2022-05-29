@@ -182,7 +182,7 @@
 				links = html(playarea, "div", "wall links");
 				bricks.filter((brick, i) => i%4==0).forEach(function(brick, i) {
 					let link = html(links, "div", "link group"+i, );
-					let span = html(link, "span", "hidden", "Connection?");
+					let span = html(link, "span", "hidden", new Image('/Graphics/OC%20Logo%20Game%20Dark.png'));
 					link.addEventListener("click", function() {
 						if(span.classList.contains("hidden")) {
 							span.classList.remove("hidden");
