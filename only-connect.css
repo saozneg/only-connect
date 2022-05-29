@@ -174,7 +174,10 @@ p {
 	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 .link .hidden {
-	font-style: italic;
+	@font-face {
+		font-family: 'Gidole';
+		src: url(https://saozneg.github.io/gidole-regular-webfont.woff2) format('woff2');
+	}
 }
 
 .wall.editor input {
