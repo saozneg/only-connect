@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Gidole';
-    src: url(https://saozneg.github.io/gidole-regular-webfont.woff2) format('woff2');
+    src: url(Fonts/gidole-regular-webfont.woff2) format('woff2');
 }
 
 html, body {
@@ -175,8 +175,8 @@ p {
 }
 .link .hidden {
 	@font-face {
-		font-family: 'Gidole';
-		src: url(https://saozneg.github.io/gidole-regular-webfont.woff2) format('woff2');
+		font-family: 'HoTomLL';
+		src: url(Fonts/HOTOLRG_.woff2) format('woff2');
 	}
 }
 
