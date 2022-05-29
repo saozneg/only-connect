@@ -28,10 +28,10 @@
 		// if there is no data use hard coded default
 		if(!groups) {
 			groups = [
-				{link:"Metals", clues:["lead", "gold", "copper", "zinc"]},
-				{link:"Insects", clues:["wasp", "fly", "cricket", "beetle"]},
-				{link:"____man", clues:["spider", "super", "ant", "bat"]},
-				{link:"Monolopy pieces", clues:["car", "boot", "iron", "dog"]}
+				{link:"Countries", clues:["Ireland", "Australia", "Canada", "United States"]},
+				{link:"Cities", clues:["London", "San Francisco", "Sydney", "Dublin"]},
+				{link:"New _______", clues:["York", "Zealand", "Mexico", "Jersey"]},
+				{link:"Continents", clues:["Europe", "America", "Africa", "Asia"]}
 			];
 		}
 
