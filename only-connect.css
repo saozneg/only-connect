@@ -60,10 +60,10 @@ p {
 	padding-bottom: 0.5vh;
 	transform: translate(-50%, -50%);
 	color: #1D3C4C;
-	background: rgba(145, 195, 228, 0.85);
+	background: radial-gradient(circle, rgba(175,220,249,.75) 0%, rgba(166,210,249,.65) 100%);
 	border-radius: 5px;
 	text-shadow: 0px 0px 0px rgba(0,0,0,0);
-	box-shadow: 0px 5px 25px 7.5px rgba(0, 0, 0, .5);
+	box-shadow: inset 0px 0px 12.5px 7.5px rgba(96,143,191,.5), 0px 5px 25px 7.5px rgba(0, 0, 0, .5);
 }
 
 .responsive {
@@ -132,29 +132,29 @@ p {
 .brick {
 	border-radius: 5px;
 	color: #1D3C4C;
-	background: rgba(145, 195, 228, 0.75);
-	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
+	background: radial-gradient(circle, rgba(175,220,250,.7) 0%, rgba(166,210,250,.7) 100%);;
+	box-shadow: inset 0px 0px 10px 5px rgba(96,145,190,.5), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
 }
 
 .brick.group0 {
 	color: #FFFFFF;
-	background: rgba(5, 72, 114, 0.75);
-	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
+	background: radial-gradient(circle, rgba(2,50,100,.8) 0%, rgba(2,40,90,.8) 100%);
+	box-shadow: inset 0px 0px 10px 5px rgba(0,25,70,.5), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.25);
 }
 .brick.group1 {
 	color: #FFFFFF;
-	background: rgba(9, 135, 60, 0.75);
-	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
+	background: radial-gradient(circle, rgba(20,150,100,.9) 0%, rgba(20,100,65,.9) 100%);
+	box-shadow: inset 0px 0px 10px 5px rgba(10,50,40,.5), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.25);
 }
 .brick.group2 {
 	color: #FFFFFF;
-	background: rgba(125, 25, 35, 0.75);
-	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
+	background: radial-gradient(circle, rgba(100,20,50,.9) 0%, rgba(75,10,50,.9) 100%);
+	box-shadow: inset 0px 0px 10px 5px rgba(50,10,40,.5), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.25);
 }
 .brick.group3 {
 	color: #FFFFFF;
-	background: rgba(10, 140, 160, 0.75);
-	box-shadow: 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
+	background: radial-gradient(circle, rgba(0,120,140,.9) 0%, rgba(0,90,100,.9) 100%);
+	box-shadow: inset 0px 0px 10px 5px rgba(0,50,80,.5), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.25);
 }
 
 .link.group0 {
