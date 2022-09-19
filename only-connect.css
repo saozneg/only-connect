@@ -130,7 +130,7 @@ p {
 }
 
 .brick {
-	border-radius: 5px;
+	border-radius: 1.5vh;
 	color: #1D3C4C;
 	background: radial-gradient(circle, rgba(164,210,242,.75) 0%, rgba(105,172,223,.75) 100%);
 	box-shadow: inset 0px 0px 2vh 1vh rgba(75, 125, 200, .75), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.125);
