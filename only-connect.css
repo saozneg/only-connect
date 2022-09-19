@@ -186,7 +186,8 @@ p {
 }
 
 .wall.editor input {
-    font-size: 3.5vh;
+	font-family: Gidole;
+	font-size: 3.5vh;
 	box-sizing: border-box;
 	width: 100%;
 	padding: 2.5vh;
@@ -197,6 +198,7 @@ p {
 	color:#FFFFFF;
 }
 input[type=button] {
+	font-family: Gidole;
 	font-size: 15px;
 	margin: 20px;
 	padding: 10px 20px;
@@ -205,13 +207,15 @@ input[type=button] {
 	outline: none;
 }
 textarea {
-	font-size: 1.75vw;
+	font-family: Gidole;
+	font-size: 3.5vh;
 	margin: 0.1vw;
 	width: 75vw;
-	height: 15vh;
+	height: 20vh;
 	outline: none;
-    border: 2px solid rgba(164,210,242,1);
+	border: 2px solid rgba(164,210,242,1);
 	border-radius: 1.5vh;
 	background: rgba(0, 0, 0, 0.5);
 	box-shadow: 0px 0px 2vh 1vh rgba(0, 0, 0, 0.125);
+	color:#FFFFFF;
 }
