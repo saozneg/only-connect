@@ -186,7 +186,7 @@ p {
 }
 
 .wall.editor input {
-    font-size: 3.5vh;
+	font-size: 3.5vh;
 	box-sizing: border-box;
 	width: 100%;
 	padding: 3.5vh;
