@@ -143,12 +143,12 @@ p {
 }
 .brick.group1 {
 	color: #FFFFFF;
-	background: radial-gradient(circle, rgba(17,153,75,.75) 0%, rgba(21,95,50,.75) 100%);
+	background: radial-gradient(circle, rgba(17,153,40,.75) 0%, rgba(21,95,20,.75) 100%);
 	box-shadow: inset 0px 0px 1.5vh 1vh rgba(12,59,51,.5), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.25);
 }
 .brick.group2 {
 	color: #FFFFFF;
-	background: radial-gradient(circle, rgba(175,29,50,.75) 0%, rgba(100,24,25,.75) 100%);
+	background: radial-gradient(circle, rgba(175,29,40,.75) 0%, rgba(100,24,20,.75) 100%);
 	box-shadow: inset 0px 0px 1vh .5vh rgba(64,20,0,.5), 0px 1.5px 5px 0px rgba(0, 0, 0, 0.25);
 }
 .brick.group3 {
@@ -208,7 +208,7 @@ input[type=button] {
 }
 textarea {
 	font-family: Gidole;
-	font-size: 3vh;
+	font-size: 3.5vh;
 	margin: 0.1vw;
 	width: 75vw;
 	height: 20vh;
