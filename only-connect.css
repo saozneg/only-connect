@@ -132,50 +132,50 @@ p {
 .brick {
 	border-radius: 1.5vh;
 	color: #1D3C4C;
-	background: radial-gradient(circle, rgba(164,210,242,.75) 0%, rgba(105,172,223,.75) 100%);
+	background: radial-gradient(circle, rgba(164, 210, 242, 0.75) 0%, rgba(105, 172, 223, 0.75) 100%);
 	box-shadow: inset 0vh 0vh 2vh 1vh rgba(75, 125, 200, .75), 0vh 1.5px 5px 0px rgba(0, 0, 0, 0.5);
 }
 
 .brick.group0 {
 	color: #FFFFFF;
-	background: radial-gradient(circle, rgba(1,56,113,.75) 0%, rgba(0,45,91,.75) 100%);
-	box-shadow: inset 0vh 0vh 2vh 1vh rgba(0,25,70,.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	background: radial-gradient(circle, rgba(1, 56, 113, 0.75) 0%, rgba(0, 45, 91, 0.75) 100%);
+	box-shadow: inset 0vh 0vh 1.5vh 0.75vh rgba(0, 25, 70, 0.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 .brick.group1 {
 	color: #FFFFFF;
-	background: radial-gradient(circle, rgba(17,153,40,.75) 0%, rgba(21,95,20,.75) 100%);
-	box-shadow: inset 0vh 0vh 1.5vh 1vh rgba(12,59,51,.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	background: radial-gradient(circle, rgba(17, 153, 40, 0.75) 0%, rgba(21, 95, 20, 0.75) 100%);
+	box-shadow: inset 0vh 0vh 1.5vh 0.75vh rgba(12, 59, 51, 0.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 .brick.group2 {
 	color: #FFFFFF;
-	background: radial-gradient(circle, rgba(175,29,40,.75) 0%, rgba(100,24,20,.75) 100%);
-	box-shadow: inset 0vh 0vh 1vh .5vh rgba(64,20,0,.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	background: radial-gradient(circle, rgba(175, 29, 40, 0.75) 0%, rgba(100, 24, 20, 0.75) 100%);
+	box-shadow: inset 0vh 0vh 1.5vh 0.75vh rgba(64, 20, 0, 0.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 .brick.group3 {
 	color: #FFFFFF;
-	background: radial-gradient(rgba(42,125,200,.75) 0%, rgba(20,75,150,.75) 100%);
-	box-shadow: inset 0vh 0vh 1vh .5vh rgba(14,49,50,.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	background: radial-gradient(rgba(42, 125, 200, 0.75) 0%, rgba(20, 75, 150, 0.75) 100%);
+	box-shadow: inset 0vh 0vh 1.5vh 0.75vh rgba(14, 49, 50, 0.5), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 
 .link.group0 {
 	border-radius: 1.5vh;
 	background: rgba(0, 0, 0, 0.5);
-	box-shadow: inset 0vh 0vh 0vh .5vh rgba(0,45,91,1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	box-shadow: inset 0vh 0vh 0.2vh 0.4vh rgba(0, 45, 91, 1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 .link.group1 {
 	border-radius: 1.5vh;
 	background: rgba(0, 0, 0, 0.5);
-	box-shadow: inset 0vh 0vh 0vh .5vh rgba(21,95,75,1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	box-shadow: inset 0vh 0vh 0.2vh 0.4vh rgba(21, 95, 75, 1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 .link.group2 {
 	border-radius: 1.5vh;
 	background: rgba(0, 0, 0, 0.5);
-	box-shadow: inset 0vh 0vh 0vh .5vh rgba(83,24,46,1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	box-shadow: inset 0vh 0vh 0.2vh 0.4vh rgba(83, 24, 46, 1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 .link.group3 {
 	border-radius: 1.5vh;
 	background: rgba(0, 0, 0, 0.5);
-	box-shadow: inset 0vh 0vh 0vh .5vh rgba(20,63,132,1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
+	box-shadow: inset 0vh 0vh 0.2vh 0.4vh rgba(20, 63, 132, 1), 0vh 0.25vh 1vh 0vh rgba(0, 0, 0, 0.5);
 }
 .link .hidden {
 	font-style: Italic;
