@@ -83,8 +83,8 @@ p {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	grid-template-rows: repeat(4, 1fr);
-	gap: 10px 10px;
-	padding: 10px;
+	gap: 1.5vh 1.5vh;
+	padding: 1.5vh;
 }
 .wall.player {
 	box-sizing: border-box;
