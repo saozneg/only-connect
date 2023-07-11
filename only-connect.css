@@ -33,6 +33,10 @@ html, body {
 	color: #FFFFFF;
 }
 
+html, h1 {
+	font-family: HoTom;
+}
+
 p {
 	margin-top: 0;
 	margin: 2vh;
@@ -199,7 +203,7 @@ p {
 	color:#FFFFFF;
 }
 input[type=button] {
-	font-family: HoTom ;
+	font-family: HoTom;
 	font-size: 1vw;
 	margin: 20px;
 	padding: 1vh 1vw;
