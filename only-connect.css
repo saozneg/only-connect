@@ -8,12 +8,12 @@
 @font-face {
     font-family: 'Gidole';
 	font-style: Italic;
-	src: url(Fonts/HOTOLRG_.woff2) format('woff2');
+	src: url(Fonts/HoTom.woff2) format('woff2');
 }
 
 @font-face {
-    font-family: 'HoTomLL';
-	src: url(Fonts/HOTOLRG_.woff2) format('woff2');
+    font-family: 'HoTom';
+	src: url(Fonts/HoTom.woff2) format('woff2');
 }
 
 html, body {
@@ -199,7 +199,7 @@ p {
 	color:#FFFFFF;
 }
 input[type=button] {
-	font-family: HoTomLL ;
+	font-family: HoTom ;
 	font-size: 1vw;
 	margin: 20px;
 	padding: 1vh 1vw;
