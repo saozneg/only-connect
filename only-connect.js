@@ -30,7 +30,7 @@
 			groups = [
 				{link:"Countries", clues:["Ireland", "Australia", "Canada", "United States"]},
 				{link:"Cities", clues:["London", "San Francisco", "Sydney", "Dublin"]},
-				{link:"New _______", clues:["York", "Zealand", "Mexico", "Jersey"]},
+				{link:"New ____", clues:["York", "Zealand", "Mexico", "Jersey"]},
 				{link:"Continents", clues:["Europe", "America", "Africa", "Asia"]}
 			];
 		}
