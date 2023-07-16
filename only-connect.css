@@ -2,7 +2,8 @@
 
 @font-face {
     font-family: 'DIN Next';
-    src: url(Fonts/NeueDINVAR.woff2) format('woff2');
+    src: url(Fonts/FF DIN Variable.woff) format('woff');
+    font-weight: 325;
 }
 
 @font-face {
