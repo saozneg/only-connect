@@ -1,12 +1,12 @@
 @charset "utf-8";
 
 @font-face {
-    font-family: 'Gidole';
-    src: url(Fonts/gidole-regular-webfont.woff2) format('woff2');
+    font-family: 'DIN Next';
+    src: url(Fonts/DINNextLTPro-Regular.woff2) format('woff2');
 }
 
 @font-face {
-    font-family: 'Gidole';
+    font-family: 'DIN Next';
 	font-style: Italic;
 	src: url(Fonts/HoTom.woff2) format('woff2');
 }
@@ -26,7 +26,7 @@ html, body {
 	background-size: cover;
 	height: 100%;
 	overflow: hidden;
-	font-family: Gidole;
+	font-family: DIN Next;
 	text-align: center;
 	color: #FFFFFF;
 	text-shadow: 0px 0px 10px rgba(0,0,0,0.33);
@@ -191,7 +191,7 @@ p {
 }
 
 .wall.editor input {
-	font-family: Gidole;
+	font-family: DIN Next;
 	font-size: 1.75vw;
 	box-sizing: border-box;
 	width: 100%;
@@ -212,7 +212,7 @@ input[type=button] {
 	outline: none;
 }
 textarea {
-	font-family: Gidole;
+	font-family: DIN Next;
 	font-size: 1.5vw;
 	margin: 0.1vw;
 	width: 75vw;
