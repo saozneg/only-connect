@@ -2,7 +2,9 @@
 
 @font-face {
     font-family: 'DIN';
-    src: url(Fonts/gidole-regular-webfont.woff2) format('woff2');
+    src: url(Fonts/PFDINMax-Variable.ttf) format('woff2');
+    font-stretch: max(75%);
+    font-weight: 350;
 }
 
 @font-face {
